@@ -1,0 +1,29 @@
+
+body {
+    margin: 0;
+    padding: 30px 15px;
+    text-align: center;
+    background-color: #20232b;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #ffbd35;
+    font-size: 36px;
+    letter-spacing: 4px;
+}
+
+p {
+    color: #cccccc;
+}
+
+canvas {
+    display: block;
+    width: min(900px, 100%);
+    height: auto;
+    margin: 25px auto;
+    border: 4px solid white;
+    border-radius: 8px;
+    background-color: #75513b;
+}
